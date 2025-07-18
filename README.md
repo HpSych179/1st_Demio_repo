@@ -1,6 +1,6 @@
 # 1st_Demio_repo
 This is my first repository.
 <br>
-Author: Harsh
+Author: Harsh (GSV)
 <br>
 This is just to get hands on with Git and Github.
